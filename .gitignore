@@ -123,4 +123,6 @@ out
 .yarn/install-state.gz
 .pnp.*
 
+.tsbuildinfo
+
 # End of https://www.toptal.com/developers/gitignore/api/node
